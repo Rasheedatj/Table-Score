@@ -1,0 +1,30 @@
+#heading{ 
+    color:purple;
+    text-align:center; 
+   
+     }
+  th{
+      border: 1px solid #67de;
+      
+  }
+  
+  table {
+      color:white;
+      
+  }
+  
+  
+  .data{
+       border:1px solid purple;}
+  .row1, .row3,.row5,.row7,.row9{
+      background-color:purple;
+      color:#67de;
+      border: 1px solid purple
+  
+  }
+  th,.row2, .row4,.row6,.row8 {
+      background-color:#67de
+      
+      
+      
+  }
